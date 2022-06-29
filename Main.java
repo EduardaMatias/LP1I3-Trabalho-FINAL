@@ -1,5 +1,17 @@
 package exfinal;
 
+/**
+ * @author Eduarda Vitória e Stefany Tam
+ * Para testar a classe criada siga os passos abaixo respeitando a ordem em que eles serão solicitados:
+ 
+ * Usando a classe AmostraTemperatura instancie o objeto t1 inicializado-o com o construtor AmostraTemperatura(int a, int b, int c, int d, int e, int f, float v);
+ * Exiba todas as propriedades de t1;
+ * Agora instancie o objeto t2 usando o construtor AmostraTemperatura();
+ * Exiba todas as propriedades de t2;
+ * Usando os métodos setData(), setHora() e setValor, altere as propriedades de T1;
+ * Exiba todas as propriedades de t1 novamente.
+ */
+
 public class Main {
 
 	public static void main(String[] args) {
